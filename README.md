@@ -7,9 +7,3 @@ Welcome to the Excel Fundamentals repository! This repository is dedicated to pr
 Developed by Diego Cortés
 
 - <dcortes.net@gmail.com>
-
-## Team
-
-Developed by Diego Cortés
-
-- dcortes.net@gmail.com
